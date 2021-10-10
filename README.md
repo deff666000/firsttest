@@ -1,7 +1,7 @@
 # firsttest
 {
   "squadName" : "Super cake squad",
-  "homeTown" : "Metro City",
+  "homeTown" : "cake City",
   "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
